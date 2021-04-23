@@ -3,8 +3,7 @@
 ### Hi Losers, I'm Metehan. :sunglasses:
 
 ## Laravel Developer | Cyber Security 
-<font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
-my nickname is bad boy 
+<font color="pink">Coffee :coffee: is how I keep up with `< code />` , my nickname is bad boy </font>
 ### Reach out to me
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
