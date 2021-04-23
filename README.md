@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/5e/58/02/5e5802ce545f9877e8bbe0b9a2a25c48.gif" align="right" width="350" height="250">
 
-### Hi there, I'm Metehan. :sunglasses:
+### Hi Losers, I'm Metehan. :sunglasses:
 
 ## Laravel Developer | Cyber Security 
 <font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
