@@ -38,5 +38,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
 
 
-[instagram]: https://www.instagram.com/thekataron
+[instagram]: https://www.instagram.com/metehanhard
 
